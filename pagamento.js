@@ -1,7 +1,11 @@
 const m=' mercado pago'
-<<<<<<< HEAD
 const d= 'devedor' 
-=======
 const p='pagamento'
->>>>>>> mercado-pago
 console.log(m)
+
+let produdo1=5
+let produto2=10
+
+function somaProdutto(produdo1,produdo2) {
+    let somador=produdo1+produdo2
+}
