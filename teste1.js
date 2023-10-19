@@ -10,3 +10,8 @@ function soma(numero1,numero2){
 }
 
 soma(5,5)
+
+
+for(let cronometro=0;cronometro<100;cronometro++){
+    console.log(cronometro)
+}
